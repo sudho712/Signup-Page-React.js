@@ -3,7 +3,9 @@ import './App.css';
 function App() {
   return (
     <div classname="App">
-      <h1>Testing.......</h1>
+      <div className='logo-box'>
+        <img src="./twitter.png" alt="logo" />
+      </div>
     </div>    
   );
 }
